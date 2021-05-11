@@ -28,3 +28,25 @@ HUGO_VERSION = "0.83.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/*"
+
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Content-Security-Policy = "font-src 'self'; frame-src 'none'; img-src 'self'; media-src 'none'; object-src 'none';"
+
+    # Multi-value headers are expressed with multi-line strings.
+    cache-control = '''
+    max-age=0,
+    no-cache,
+    no-store,
+    must-revalidate'''
+
+[[headers]]
+  for = "/*.css"
+
+  [headers.values]
+    cache-control = "max-age=604800"
