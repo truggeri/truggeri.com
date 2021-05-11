@@ -1,0 +1,15 @@
+baseURL = "https://truggeri.com/"
+languageCode = "en-us"
+title = "TRuggeri"
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume"
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+
+[[menu.main]]
+  name = "Blog"
+  url = "https://blog.truggeri.com"

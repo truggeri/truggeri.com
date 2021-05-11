@@ -1,0 +1,17 @@
+<style>
+a {
+  text-decoration: none;
+}
+
+.tile {
+  flex: 1;
+  min-width: 250px;
+  text-align: center;
+}
+</style>
+
+<div class="tile">
+  <h2><a href="{{ .Get "link" }}">{{ .Get "title" }}</a></h2>
+  {{ with .Get "content" }}<p>{{ . }}</p>{{ end }}
+  {{.Inner}}
+</div>
