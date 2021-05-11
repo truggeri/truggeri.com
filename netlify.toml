@@ -36,7 +36,7 @@ HUGO_ENABLEGITINFO = "true"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-    Content-Security-Policy = "font-src 'self'; frame-src 'none'; img-src 'self'; media-src 'none'; object-src 'none';"
+    Content-Security-Policy = "font-src 'self'; frame-src 'none'; img-src 'self' img.shields.io; media-src 'none'; object-src 'none';"
 
     # Multi-value headers are expressed with multi-line strings.
     cache-control = '''
