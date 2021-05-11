@@ -2,6 +2,10 @@ baseURL = "https://truggeri.com/"
 languageCode = "en-us"
 title = "TRuggeri"
 
+[params]
+description = "Landing page for truggeri"
+author = "Thomas Ruggeri"
+
 [[menu.main]]
   name = "Resume"
   url = "/resume"

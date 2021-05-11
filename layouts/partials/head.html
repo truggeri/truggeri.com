@@ -9,7 +9,10 @@
 <!-- Title -->
 <title>{{ if .IsHome }}{{else}}{{ if .Title }}{{ .Title }} | {{ end }}{{end}}{{ .Site.Title }}</title>
 <!-- Meta -->
-
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if .IsPage}}
+    {{- .Summary | default (printf "%s - %s" .Title  .Site.Title) }}{{- else }}
+    {{- with .Site.Params.description }}{{ . }}{{- end }}{{- end }}{{- end -}}">
 <link rel="preload stylesheet" href="/water.2.0.0.min.css" as="style">
 <style>
   footer {
