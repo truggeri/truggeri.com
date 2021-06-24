@@ -29,6 +29,16 @@ Chore Scheduler is a classic Ruby on Rails application with PostgreSQL database.
 
 You can see it at [https://choreplan.truggeri.com](https://choreplan.truggeri.com) or view the [source on Github](https://github.com/truggeri/chore-schedule).
 
+### URL Shortener
+
+![RoR Badge](https://img.shields.io/badge/-Ruby_On_Rails-b32424?style=flat&labelColor=cc0000&logo=ruby-on-rails&logoColor=white)
+![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/-Heroku-45197f?style=flat&labelColor=430098&logo=heroku&logoColor=white)
+
+The URL Shortener is a small Ruby on Rails application that is deployed on Heroku. It has detailed documentation on the design and implementation details.
+
+You can use it for yourself at [https://short.truggeri.com](https://short.truggeri.com/docs).
+
 ## Go Sudoku
 
 ![Go Badge](https://img.shields.io/badge/-Go-0084c0?style=flat&labelColor=00ADD8&logo=go&logoColor=white)
