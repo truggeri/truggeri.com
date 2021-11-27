@@ -8,11 +8,21 @@ title: "Resume"
 
 ## Professional Experience
 
+### Goldbelly
+
+New York City
+Lead Software Engineer
+2021 - present
+
+* Lead of software team working directly with stake holders and product for multiple projects within the company
+* Implement service based architecture across multiple clouds for subscription product
+* Architect and developer of system that processes millions of shipping label updates a year
+
 ### ZipRecruiter
 
 Charleston, SC
 Senior Software Engineer II
-2018 - present
+2018 - 2021
 
 * Responsible for white label web application receiving 2M visitors per day
 * Develop and maintain code and infrastructure deployed in multiple clouds
@@ -36,7 +46,7 @@ Verification Engineer
 
 * Software verification of essential cpu subsystem in custom designed ARM cpu
 * Developed lab methodology and framework for power research and validation of dozens of in house and competitive cpus
-* Member of cpu “bringup” team for six straight Tegra chips sold in millions of devices
+* Member of cpu “bringup” team for six straight Tegra chips sold in millions of devices including Nintendo Switch
 
 ## Education
 
@@ -44,23 +54,24 @@ Verification Engineer
 
 * Masters of Science, June 2012
 Cumulative GPA: 3.80
+Electrical and Computer Engineering in low power VLSI
 * Bachelors of Science, June 2010
 Cumulative GPA: 3.94
-Major: Electrical and Computer Engineering. Minor: Computer Science
+Electrical and Computer Engineering with a minor in Computer Science
 
 ## Additional Skills
 
 * Aws Certified Developer Associate (2018 - 2021)
 * Write and maintain web applications using Ruby, Ruby-on-Rails, Go
 * Data storage with PostgreSQL, MongoDB, DynamoDB, Aws S3, Redis
-* Deploy applications using Docker, Kubernetes (k8s), Terraform, Heroku, git
+* Deploy applications using Docker, Kubernetes (k8s), ECS, Terraform, Heroku, git
 * Continuous Integration with Github Actions, CircleCI, Jenkins
 
 ## Volunteering Experience
 
 ### TEALS (Microsoft)
 
-2017 - 2018, 2021
+2017 - 2018
 
 * Teacher for AP Computer Science at West Ashley High School, Charleston SC
 * Worked with school teachers to integrate program curriculum throughout school year
