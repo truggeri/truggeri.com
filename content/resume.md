@@ -8,11 +8,19 @@ title: "Resume"
 
 ## Professional Experience
 
+### Amazon Web Services
+
+Portland Oregon
+Software Development Engineer
+2022 - present
+
+* Member of Serverless Application Experience team, working to improve the development experience of serverless
+
 ### Goldbelly
 
 New York City
 Lead Software Engineer
-2021 - present
+2021 - 2022
 
 * Lead of software team working directly with stake holders and product for multiple projects within the company
 * Implement service based architecture across multiple clouds for subscription product
@@ -59,10 +67,10 @@ Electrical and Computer Engineering in low power VLSI
 Cumulative GPA: 3.94
 Electrical and Computer Engineering with a minor in Computer Science
 
-## Additional Skills
+## Additional Skill Highlights
 
 * Aws Certified Developer Associate (2018 - 2021)
-* Write and maintain web applications using Ruby, Ruby-on-Rails, Go
+* Write and maintain web applications using Ruby, Ruby-on-Rails, Go, React
 * Data storage with PostgreSQL, MongoDB, DynamoDB, Aws S3, Redis
 * Deploy applications using Docker, Kubernetes (k8s), ECS, Terraform, Heroku, git
 * Continuous Integration with Github Actions, CircleCI, Jenkins
