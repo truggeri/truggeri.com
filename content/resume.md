@@ -10,15 +10,16 @@ title: "Resume"
 
 ### Amazon Web Services
 
-Portland Oregon
+Portland, OR
 Software Development Engineer
 2022 - present
 
 * Member of Serverless Application Experience team, working to improve the development experience of serverless
+* Developed and released new Aws console service as part of re:Invent 2022
 
 ### Goldbelly
 
-New York City
+Raleigh, NC (remote)
 Lead Software Engineer
 2021 - 2022
 
