@@ -23,11 +23,10 @@ You can check it out at [https://testoauth.com](https://testoauth.com) or view t
 
 ![RoR Badge](https://img.shields.io/badge/-Ruby_On_Rails-b32424?style=flat&labelColor=cc0000&logo=ruby-on-rails&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/-Heroku-45197f?style=flat&labelColor=430098&logo=heroku&logoColor=white)
 
 Chore Scheduler is a classic Ruby on Rails application with PostgreSQL database. It has recently been updated to Rails 6.1.
 
-You can see it at [https://choreplan.truggeri.com](https://choreplan.truggeri.com) or view the [source on Github](https://github.com/truggeri/chore-schedule).
+View the [source on Github](https://github.com/truggeri/chore-schedule).
 
 ### URL Shortener
 
@@ -35,6 +34,8 @@ You can see it at [https://choreplan.truggeri.com](https://choreplan.truggeri.co
 ![Postgres Badge](https://img.shields.io/badge/-PostgreSQL-426078?style=flat&labelColor=336791&logo=postgresql&logoColor=white)
 
 The URL Shortener is a small Ruby on Rails application that is deployed on Heroku. It has detailed documentation on the design and implementation details.
+
+View the [source on Github](https://github.com/truggeri/rails-url-shortener).
 
 ## Go Sudoku
 
