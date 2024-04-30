@@ -1,5 +1,5 @@
 ---
-date: 2021-05-10T13:52:24-04:00
+date: 2024-04-30T01:52:24-04:00
 description: "Resume"
 title: "Resume"
 ---
@@ -10,18 +10,15 @@ title: "Resume"
 
 ### Amazon Web Services
 
-Portland, OR
-Software Development Engineer
-2022 - present
+Portland, OR | Software Development Engineer | 2022 - present
 
-* Member of Serverless Application Experience team, working to improve the development experience of serverless
-* Developed and released new Aws console service as part of re:Invent 2022
+* Lead software engineer on team that built Application Composer service
+* Led effort to support Visual Studio Code extension, increasing weekly visitors by 3x
+* Created pipeline to automatically deploy to new Aws regions, releasing our service to all 31 commercial regions
 
 ### Goldbelly
 
-Raleigh, NC (remote)
-Lead Software Engineer
-2021 - 2022
+Raleigh, NC (remote) | Lead Software Engineer | 2021 - 2022
 
 * Lead of software team working directly with stake holders and product for multiple projects within the company
 * Implement service based architecture across multiple clouds for subscription product
@@ -29,9 +26,7 @@ Lead Software Engineer
 
 ### ZipRecruiter
 
-Charleston, SC
-Senior Software Engineer II
-2018 - 2021
+Charleston, SC | Senior Software Engineer II | 2018 - 2021
 
 * Responsible for white label web application receiving 2M visitors per day
 * Develop and maintain code and infrastructure deployed in multiple clouds
@@ -39,9 +34,7 @@ Senior Software Engineer II
 
 ### Snagajob
 
-Charleston, SC
-Senior Software Engineer
-2017 - 2018
+Charleston, SC | Senior Software Engineer | 2017 - 2018
 
 * Tech lead of scrum team of five software and three QA engineers
 * Responsible for containerization and migration of 20 web services between hosting environments
@@ -49,9 +42,7 @@ Senior Software Engineer
 
 ### Nvidia
 
-Beaverton, OR
-Verification Engineer
-2012 - 2017
+Beaverton, OR | Verification Engineer | 2012 - 2017
 
 * Software verification of essential cpu subsystem in custom designed ARM cpu
 * Developed lab methodology and framework for power research and validation of dozens of in house and competitive cpus
@@ -73,7 +64,7 @@ Electrical and Computer Engineering with a minor in Computer Science
 * Aws Certified Developer Associate (2018 - 2021)
 * Write and maintain web applications using Ruby, Ruby-on-Rails, Go, React
 * Data storage with PostgreSQL, MongoDB, DynamoDB, Aws S3, Redis
-* Deploy applications using Docker, Kubernetes (k8s), ECS, Terraform, Heroku, git
+* Deploy applications using Docker, Kubernetes (k8s), ECS, Terraform, Cloudformation, Aws Serverless, Heroku, git
 * Continuous Integration with Github Actions, CircleCI, Jenkins
 
 ## Volunteering Experience
