@@ -12,24 +12,24 @@ title: "Resume"
 
 Portland, OR | Software Development Engineer | 2022 - present
 
-* Lead software engineer on team that built Application Composer service
-* Led effort to support Visual Studio Code extension, increasing weekly visitors by 3x
-* Created pipeline to automatically deploy to new Aws regions, releasing our service to all 31 commercial regions
+* Proposed, authored and led project to embed our service and visual technology in other AWS service consoles, resulting in over 1 million unique users per year
+* Lead engineer on project to add our AWS service to Visual Studio Code extension, increasing weekly visitors by 3x
+* Created pipeline to automatically deploy our AWS service to new regions, releasing and maintaining our service in all 33 commercial regions, GovCloud and China partitions
 
 ### Goldbelly
 
 Raleigh, NC (remote) | Lead Software Engineer | 2021 - 2022
 
-* Lead of software team working directly with stake holders and product for multiple projects within the company
-* Implement service based architecture across multiple clouds for subscription product
-* Architect and developer of system that processes millions of shipping label updates a year
+* Responsible for setting architecture, improving operations practices and coaching junior developers reducing on call burden and outages
+* Designed and implemented first service based architecture across multiple clouds using event driven architecture
+* Architect and developer of system that processes one million shipping updates per month
 
 ### ZipRecruiter
 
 Charleston, SC | Senior Software Engineer II | 2018 - 2021
 
-* Responsible for white label web application receiving 2M visitors per day
-* Develop and maintain code and infrastructure deployed in multiple clouds
+* Responsible for developing and operating white label web application receiving two million visitors per day
+* Designed, implemented and operated service based system across multiple clouds enabling customer data compliance
 * Ownership of international platform in 12 foreign countries and nine languages
 
 ### Snagajob
@@ -46,7 +46,7 @@ Beaverton, OR | Verification Engineer | 2012 - 2017
 
 * Software verification of essential cpu subsystem in custom designed ARM cpu
 * Developed lab methodology and framework for power research and validation of dozens of in house and competitive cpus
-* Member of cpu “bringup” team for six straight Tegra chips sold in millions of devices including Nintendo Switch
+* Member of cpu “bringup” team for six straight Tegra System-on-Chips sold in over 200 million devices worldwide
 
 ## Education
 
@@ -59,32 +59,10 @@ Electrical and Computer Engineering in low power VLSI
 Cumulative GPA: 3.94
 Electrical and Computer Engineering with a minor in Computer Science
 
-## Additional Skill Highlights
+## Skill Highlights
 
-* Aws Certified Developer Associate (2018 - 2021)
-* Write and maintain web applications using Ruby, Ruby-on-Rails, Go, React
-* Data storage with PostgreSQL, MongoDB, DynamoDB, Aws S3, Redis
-* Deploy applications using Docker, Kubernetes (k8s), ECS, Terraform, Cloudformation, Aws Serverless, Heroku, git
+* Web service development with Go, React.js, Typescript, Rust, Ruby
+* Data storage with PostgreSQL, DynamoDB, Aws S3, Redis
+* Deploy applications with CloudFormation, AWS CDK, AWS SAM, Docker, Kubernetes (k8s), Terraform, git
 * Continuous Integration with Github Actions, CircleCI, Jenkins
-
-## Volunteering Experience
-
-### TEALS (Microsoft)
-
-2017 - 2018
-
-* Teacher for AP Computer Science at West Ashley High School, Charleston SC
-* Worked with school teachers to integrate program curriculum throughout school year
-
-### SC Codes
-
-2019 - 2021
-
-* Assist students with course work and questions
-* Spoke at “Mentor Monday” Q&A
-
-### CodeON
-
-2018 - 2019
-
-* Assistant during in-person sessions with students working on Code.org curriculum
+* Monitoring with AWS CloudWatch and Datadog
