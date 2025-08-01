@@ -12,23 +12,23 @@ title: "Resume"
 
 Portland, OR | Software Development Engineer III | 2022 - present
 
-* Proposed and architected embedding our service and visual technology in other AWS service consoles, resulting in over 1 million unique users per year
-* Lead engineer on adding our AWS service to Visual Studio Code extension, increasing weekly visitors by 3x
-* Created pipeline to automatically deploy our AWS service to new regions, releasing and maintaining our service in all 33 commercial regions, GovCloud and China partitions
+* Proposed, architected, and embedded service and visual technology in other AWS service consoles, resulting in over 1 million unique users per year
+* Led addition of AWS service to Visual Studio Code extension, increasing weekly visitors by 3x
+* Created pipeline to automatically deploy AWS service to new regions, releasing and maintaining our service in all 33 commercial regions, GovCloud, and China partitions
 
 ### Goldbelly
 
 Raleigh, NC (remote) | Lead Software Engineer | 2021 - 2022
 
-* Set architecture, improved operations practices and coached junior developers reducing on call burden and outages
+* Set architecture, improved operations practices, and coached junior developers, reducing on-call burden and outages
 * Designed and implemented first service based architecture across multiple clouds using event driven architecture
-* Architect and lead developer of system that processes one million shipping updates per month
+* Architect and lead developer of service processing one million shipping updates per month
 
 ### ZipRecruiter
 
 Charleston, SC | Senior Software Engineer II | 2018 - 2021
 
-* Developed and operated white label web application receiving two million visitors per day
+* Developed and operated white label product receiving two million visitors per day
 * Designed, implemented and operated service based system across multiple clouds enabling customer data compliance
 * Owned international platform in 12 foreign countries and nine languages
 
@@ -44,7 +44,7 @@ Charleston, SC | Senior Software Engineer | 2017 - 2018
 
 Beaverton, OR | Verification Engineer | 2012 - 2017
 
-* Software verification of essential cpu subsystem in custom designed ARM cpu
+* Software verification of cpu subsystem in custom designed ARM cpu
 * Developed lab methodology and framework for power research and validation of dozens of in house and competitive cpus
 * Member of cpu “bringup” team for six straight Tegra System-on-Chips sold in over 200 million devices worldwide
 
@@ -54,15 +54,14 @@ Beaverton, OR | Verification Engineer | 2012 - 2017
 
 * Masters of Science, June 2012
 Cumulative GPA: 3.80
-Electrical and Computer Engineering in low power VLSI
+Electrical and Computer Engineering
 * Bachelors of Science, June 2010
 Cumulative GPA: 3.94
 Electrical and Computer Engineering with a minor in Computer Science
 
 ## Skill Highlights
 
-* Web service development with Go, React.js, Typescript, Rust, Ruby
-* Data storage with PostgreSQL, DynamoDB, Aws S3, Redis
-* Deploy applications with CloudFormation, AWS CDK, AWS SAM, Docker, Kubernetes (k8s), Terraform, git
-* Continuous Integration with Github Actions, CircleCI, Jenkins
-* Monitoring with AWS CloudWatch and Datadog
+* **Languages and frameworks**: Go, React.js, Typescript, Rust, Ruby, Ruby-on-Rails
+* **Data storage**: PostgreSQL, DynamoDB, Aws S3, Redis
+* **Cloud and DevOps**: CloudFormation, AWS CDK, AWS SAM, Docker, Kubernetes, Terraform, Git, Github Actions, CircleCI, Jenkins
+* **Monitoring**: AWS CloudWatch and Datadog
